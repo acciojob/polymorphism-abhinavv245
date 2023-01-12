@@ -8,9 +8,9 @@ static class Product{
     public int product(int x,int y,int z){
         return x*y*z;
     }
-    public double product(int x, int y){
-        return x*y;
-    }
+//    public double product(int x, int y){
+//        return x*y;
+//    }
 }
 
     public static void main(String[] args) {
